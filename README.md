@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 About Me:  ** Hey there girl! Be my lover!! Cause your my healer 🥺 Just kidding I just want a girl as a friend to communicate 🤣**
+- 🌱 About Me:  **Hey there girl! Be my lover!! Cause your my healer 🥺 Just kidding I just want a girl as a friend to communicate🤣**
 
-- ⚡ Fun fact **I'm a pretty genuinely guy but quite silently in every situation so actually I'm all cool tho**
+- ⚡ Fun fact : **I'm a pretty genuinely guy but quite silently in every situation so actually I'm all cool tho**
 
 
 ## 💻 Tech Stack:
